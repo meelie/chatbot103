@@ -1,7 +1,7 @@
 const actions = {
   'trending-stars': require('./trending-stars'),
-  'trending-forks': require('./trending-forks'),
-  'show-languages': require('./show-languages'),
+  'most-forked': require('./most-forked'),
+  'most-stared': require('./most-stared'),
 
   'laugh': require('./laugh'),
 }
